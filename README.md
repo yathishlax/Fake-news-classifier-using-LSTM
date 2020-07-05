@@ -1,7 +1,3 @@
-Fake-News-Classifier
-Goal:
-This project is basically focused on identifying the fake news using NLP and LSTM
-It is applied using word embedding method
 
 Source:
 The source of this dataset is from Kaggle.com
@@ -27,3 +23,4 @@ As can be seen from the image above:
 •	2419 articles were correctly identified as Real News, which means 91.42% of genuine articled were correctly identified.
 •	The overall accuracy of prediction achieved in this model was 91.9%
 Hence majority of the Fake News articled were correctly identified with a small margin for error. This can be utilized to successfully categorise and prevent the spread of misinformation in the form of fabricated Fake News.
+
